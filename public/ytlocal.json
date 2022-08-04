@@ -1,0 +1,318 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "KCKSLVrhOEArvunzUh7UIBV8lLE",
+    "nextPageToken": "CAkQAA",
+    "regionCode": "ET",
+    "pageInfo": {
+      "totalResults": 224,
+      "resultsPerPage": 9
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "N2ZENohioFZtgfmVYyb7y2ERIFQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PMCDIIxBiZA"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-10T22:08:51Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "WWDC22 Day 5: Power down | Apple",
+          "description": "It's time for our final report. Check in with Serenity Caldwell for a recap of the last day of Apple's WWDC22. Catch you next year, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PMCDIIxBiZA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PMCDIIxBiZA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PMCDIIxBiZA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-10T22:08:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RsSCyyKl824rMLvidSfyRRQHjLY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c1zfcBHKUQU"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-09T22:08:29Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "WWDC22 Day 4:  Vision enhancements | Apple",
+          "description": "Day 4. WWDC22. Apple. Let's tag along with Serenity Caldwell and reexamine the best parts of today and take an early look at our ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c1zfcBHKUQU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c1zfcBHKUQU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c1zfcBHKUQU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-09T22:08:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bHyj96nx2NPfOEPpCUMjvnoBMbY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KqkZJ7di8jc"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-08T22:00:02Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "WWDC22 Day 3: Designing Shortcuts | Apple",
+          "description": "Now that Day 3 of Apple's WWDC is complete, let's reconnect with Serenity Caldwell to revisit all things awesome that happened ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KqkZJ7di8jc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KqkZJ7di8jc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KqkZJ7di8jc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-08T22:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QYTFI7p5_XF7FDgbIK1JFrJ6FCA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TEblbkq8Qnc"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-07T22:00:19Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "WWDC22 Day 2: What&#39;s cooking in SwiftUI | Apple",
+          "description": "Let's review Day 2 of Apple's WWDC. Serenity Caldwell takes us through some of the best topics covered today. Stay tuned for a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TEblbkq8Qnc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TEblbkq8Qnc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TEblbkq8Qnc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-07T22:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9recKHYW6ZnDeCLBa77NyhRxCQ0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m0Yb-QZ6zD8"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-07T00:30:44Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "WWDC22: Inside Apple HQ, Day 1",
+          "description": "Here's your Day 1 debrief of Apple's 2022 Worldwide Developers Conference. Check in with Serenity Caldwell for today's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m0Yb-QZ6zD8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m0Yb-QZ6zD8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m0Yb-QZ6zD8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-07T00:30:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eEICUoA4VUFGX46eGgMU-1P9y1s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jwmS1gc9S5A"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-06T19:19:48Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "The new MacBook Air | Supercharged by M2 | Apple",
+          "description": "This is Apple's most loved laptop, completely reimagined. Supercharged by the M2 chip, the impossibly thin and light MacBook Air ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jwmS1gc9S5A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jwmS1gc9S5A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jwmS1gc9S5A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-06T19:19:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "owSFpAHCXJl5JbQQivXLwTSZkNs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RH9cezXEFS0"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-06T19:20:32Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "Personalize your Lock Screen | Apple",
+          "description": "With iOS 16, the Lock Screen has been totally reimagined. It's fully customizable with new fonts and colors for date and time, photo ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RH9cezXEFS0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RH9cezXEFS0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RH9cezXEFS0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-06T19:20:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VYRad2iCQ4f8Erk-vXPNFMGPlPc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "q5D55G7Ejs8"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-06T19:06:16Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "WWDC 2022 - June 6 | Apple",
+          "description": "Watch the WWDC22 Apple Keynote announcing the latest software, hardware, services, and operating systems. To watch the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q5D55G7Ejs8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q5D55G7Ejs8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q5D55G7Ejs8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-06T19:06:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "C78i4MttDyw18dOXZ8XgQTqkhkU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LkRoRQAkelI"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-02T16:00:04Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "AirPods with Spatial Audio + Music for a Sushi Restaurant | Apple",
+          "description": "The magical listening experience of AirPods with Spatial Audio meets Harry Styles' new album “Harry's House.” With dynamic ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LkRoRQAkelI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LkRoRQAkelI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LkRoRQAkelI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-02T16:00:04Z"
+        }
+      }
+    ]
+  }

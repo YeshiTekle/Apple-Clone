@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Safira", "last": "Martins" },
+      "location": {
+        "street": { "number": 5041, "name": "Rua Santos Dumont " },
+        "city": "Anápolis",
+        "state": "Distrito Federal",
+        "country": "Brazil",
+        "postcode": 85948,
+        "coordinates": { "latitude": "-69.6589", "longitude": "19.8860" },
+        "timezone": {
+          "offset": "0:00",
+          "description": "Western Europe Time, London, Lisbon, Casablanca"
+        }
+      },
+      "email": "safira.martins@example.com",
+      "login": {
+        "uuid": "d8c68b04-d08f-4a70-9273-a624a628a4b1",
+        "username": "blueostrich467",
+        "password": "hotass",
+        "salt": "aG9PBaMi",
+        "md5": "6bc7073472d61c42b1987a97a5f9329d",
+        "sha1": "32a4cd77099b186359e29d9727ecdec25e9bce45",
+        "sha256": "2c4014e04ef3c0ceff0263e8810a9f69dcc74d5951bab1fd6851334c1106a2a3"
+      },
+      "dob": { "date": "1953-08-20T22:47:14.680Z", "age": 69 },
+      "registered": { "date": "2007-02-24T21:40:04.956Z", "age": 15 },
+      "phone": "(41) 5626-1089",
+      "cell": "(91) 2956-3076",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/63.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+      },
+      "nat": "BR"
+    }
+  ],
+  "info": {
+    "seed": "3b688533fdbacbfb",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}

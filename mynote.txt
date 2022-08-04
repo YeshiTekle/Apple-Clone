@@ -1,0 +1,159 @@
+React Routing 
+************* 
+
+What we are going to do today
+*****************************
+
+	Create the iphones page using data in a json file 
+		- Generate the pages from a json file 
+		- Do not include the detail description on the landing page 
+		- Link each of them to their individual product page 
+
+	Create Dynamic Individual page 
+		- Automatically render the individual product page based on the url 
+		- Include the description 
+
+
+Key concepts to cover 
+********************* 
+first import The react-router-dom library on app.js
+    import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+	
+
+	BrowserRouter
+		To add the ability to add routing functionality 
+
+	Switch
+		Checks provided paths and stops checking all as soon as it finds a match 
+
+	Route
+		Renders components based on the URL
+
+
+        additional
+
+	Link 
+		Used to create links. But it has an extra advantage of passing props to 
+
+	Dynamic Routing 
+		Create a page for each product dynamically 
+
+
+        example
+        first import all components included
+                    Router
+                        Switch  
+                            Route{path & component(use exact or without exact)
+                                                    prepare four04 page for not existing pages }
+
+                        function App() {
+                return (
+                    <Router>
+                    <div>
+                        <Navigation />
+                        <Switch>
+                        <Route path="/" exact component={Main} />
+                        <Route path="/mac" exact component={Mac} />
+                        <Route path="/iphone" exact component={Iphone} />
+                        <Route path="/iphone/:pid" exact component={Productpage} />
+                        <Route path="/" component={Four04} />
+                        </Switch>
+                        <Footer />
+                    </div>
+                    </Router>
+                );
+                }
+
+What to focus on next
+********************* 
+	- How can we replace the json local file we used to store products with a database? 
+
+	- How can we add more products?
+
+	- How can we use Node to achieve that
+
+	Watch one of these two videos ahead of next week's class 
+		By Travis: 
+			https://www.youtube.com/watch?v=fBNz5xF-Kx4 
+
+		By Mosh: 
+			https://www.youtube.com/watch?v=TlB_eWDSMt4 
+
+React Bootstrap
+
+	Reference site 
+		https://react-bootstrap.github.io/
+
+	Installing bootstrap on your react app 
+		npm install react-bootstrap bootstrap --save 
+
+	How to include the bootstrap css on your app 
+		Import the css on your index.js or app.js file 
+		
+		import 'bootstrap/dist/css/bootstrap.min.css'; 
+
+
+
+	To use a bootstrap component on your react app, import the component you want to use 
+		Eg: If you want to use the bootstrap button on your react app, import the button component form the react-bootstrap module first 
+
+			import Button from 'react-bootstrap/Button';
+
+			Usage example: 
+				<Button variant="primary">Primary</Button> 
+
+			- You can find examples of all available bootstrap components in here 
+				https://react-bootstrap.github.io/components/alerts 
+
+	Creating the Apple navbar using the React-bootstrap module 
+		We can use the Navbar component for that 
+		https://react-bootstrap.github.io/components/navbar/ 
+
+		Eg: Implement the navbar on apple's website 
+
+
+steps to do navigations with router
+
+1.import 
+		import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+		import React, { Component, useEffect, useState } from "react";
+2.import pages and components you want to route
+
+3.start the database server or import the json file
+
+4.create and manage fetch component
+		example
+		const[products, setproducts]=useState([]);
+		useEffect(()=>{
+			fetch(".iphones.json")
+			.then((res)=>res.json())
+			.then((data)=>{
+			const productspro=data;
+			setproducts(productspro)
+			})
+		},[])
+		console.log(products)
+
+5.install react-router-dom
+	 	npm i react-router-dom@5
+5. return
+
+		        // new api method on router v5
+        <Router>
+          <div>
+            {/* enter all components that remainns all over the changes */}
+            <Switch>
+              {/* // enter the url path and component name */}
+              <Route  path="" exact component={} />
+
+              {/* enter the default page for url error path will be "/"  */}
+              <Route path="" component={Four04}/>
+
+            </Switch>
+          </div>
+
+        </Router>
+
+
+additional 
+install npm react-bootstrap
